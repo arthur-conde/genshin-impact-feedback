@@ -1,2 +1,39 @@
-# genshin-impact-feedback
-Just what I sent to MiHoYo as feedback
+# Genshin Impact Feedback
+
+- Elite and world (Regisvines, Hypostases, Andrius, Primo Geovishap) bosses should be a teleport destination on the map.
+- Increased custom map pin cap.
+- Weekly bosses shouldn't have a resin cost
+- Better scaling of drop rates on ascension gems from elite and world bosses
+- Better scaling of ley line rewards
+  - There is no improvement to rewards after a certain world level
+- Prototypes are very hard to find
+- Weekly quest for choice of elite boss talent material
+  - Amount based on world level
+- Weekly quest for highest tier of ascension gem
+  - Amount and tier based on world level
+- Show pity counter on wishes
+- Bennet's C6 should be a selectable option on his Elemental Burst. Hold elemental burst for field to infuse Pyro
+- "Claim all" and "Repeat" option for character expeditions.
+- Another option other than "Jump" for escaping from hard CC such as Frozen or Bubbles. (Why is it jump?)
+- UI for showing remaining shield durability
+  - Crystallize reaction shields should either refresh the durability of the same element shield or apply a new one
+  - Different crystallize reaction shields should stack
+- 2 factor authentication using a T-OTP app like Authy/Google Authenticator
+  - I've spent far too much on Genshin Impact to lose my account
+- Cicins shouldn't be immune to Venti's Elemental Burst
+- Display amount in inventory while crafting
+- Provide a way to review past dialog
+- Resin refresh rates are horrible
+  - Let us store more condensed resin
+  - Let us store more original resin
+  - Give us something to do once the world is free from enemies and there is no resin
+  - Allow Resin Regen to scale with AR (-2 seconds per AR, Ex: AR30 Traveler have -60sec base regen timer, so 1 resin per 7min.)
+- Add a condensed resin as a reward for turning in daily commissions.
+- Battle Pass Evergreen rewards for those that reach Rank50 early (Something simple, Mora/Ore/Xp, something.)
+- Addition of weapon transmog option. (Style is important.)
+- Keep Theater Mechanicus around
+  - Love some RTS in my Genshin
+- More things to do in the Adventurer Book
+- adventurer book tracking more than 6 enemies in the map (I do not want to look up an online interactive map everytime.)
+- Ruin grader not counting as a ruin guard in the the adventurer book
+- Craft elite boss drops into ascension gems
