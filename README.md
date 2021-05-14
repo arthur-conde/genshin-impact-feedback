@@ -1,3 +1,10 @@
+# Table of Contents
+- [Genshin Impact Feedback](#genshin-impact-feedback)
+- [Serenity Teapot Feedback](#serenity-teapot-feedback)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 # Genshin Impact Feedback
 
 - Resin refresh rates are horrible
