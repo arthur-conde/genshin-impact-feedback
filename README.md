@@ -52,3 +52,9 @@
   - I do not want to look up an online interactive map everytime
   - Show enemies on minimap
 - Ruin Grader not counting as a ruin guard in the the adventurer book
+# Serenity Teapot Feedback
+- In furnishing crafting screen, show amount in inventory and amount being crafted
+- Animation that plays after starting a craft makes it impossible to transition to queued crafts screen until animation completes
+- I want to be able to teleport directly to my own teapot
+- I want to be able to enter the teapot without placing the teapot first
+- I want to be able to teleport to the additional areas in the teapot
