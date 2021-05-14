@@ -13,12 +13,12 @@
   - Let us store more original resin
     - Total original resin and resin refresh rate should grow with AR
   - Give us something to do once the world is free from enemies and there is no resin
-- Weekly bosses shouldn't have a resin cost.
+- Remove resin cost for weekly bosses
   - Implement a token system
     - Every weekly reset, you are given x tokens which are used to collect rewards
     - 1 token per boss available
-      - As of 1.3, 1 each for Andrius, Dvalin, and Tartaglia
-    - Challenge any combination of the bosses, or challenge the same boss 3 times
+      - As of 1.5, 1 each for Andrius, Dvalin, Tartaglia, and Azhdaha
+    - Challenge any combination of the bosses, or challenge the same boss 4 times
 - Add condensed resin as a reward for completing all 4 turning in daily commissions.
 - Add fragile resin as a reward for completing 5 days of cumulative daily commissions
 - Battle Pass rewards after level 50
@@ -27,27 +27,30 @@
 - Show pity counter on wishes
   - 3* rewards are terrible
     - There is very little variety
-      - Add Mystic Enhancement Ore, Character Experience books, Talent books, Character and Weapon ascension materials
+      - Add weapon experience, artifact experience, character experience, talent books, character ascension materials, weapon ascension materials
     - Poor value, 9/10 of every 10-pull is approximately $20.37. 9 3* weapons is unacceptable
+- 2 factor authentication using a T-OTP app like Authy/Google Authenticator
 - Better scaling of drop rates on ascension gems from elite and world bosses
 - Better scaling of ley line rewards
   - There is no improvement to rewards after a certain world level
 - Prototypes are very hard to find
 - Weekly quest for choice of elite boss talent material
-  - Amount based on world level
+  - Amount of material rewarded based on world level
 - Weekly quest for highest tier of ascension gem
-  - Amount and tier based on world level
+  - Amount of gem and tier based on world level
 - Craft or transmute elite boss drops into ascension gems
 - Minimap passive talents need to indicate elevation
 - Increased custom map pin cap.
+- Quick swap between the 4 teams
+- Improved filtering in artifact screens
+- Rapidly convert junk weapons into weapon exp
+- Allow more than 7(?) weapon/artifact materials during enhancement
 - Bennet's C6 should be a selectable option on his Elemental Burst. Hold elemental burst for field to infuse Pyro
 - "Claim all" and "Repeat" option for expeditions.
 - Another option other than "Jump" for escaping from hard CC such as Frozen or Bubbles. (Why is it jump?)
 - UI for showing remaining shield durability
   - Shields from crystallize reaction should either refresh the durability of the same element shield or apply a new one
   - Different crystallize reaction shields should stack
-- 2 factor authentication using a T-OTP app like Authy/Google Authenticator
-  - I've spent far too much on Genshin Impact to lose my account
 - Cicins shouldn't be immune to Venti's Elemental Burst
 - Display amount in inventory while crafting
 - Provide a way to review past dialog
