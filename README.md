@@ -60,8 +60,6 @@
 - Display amount in inventory while crafting
 - Provide a way to review past dialog
 - Addition of weapon transmog option. (Style is important.)
-- Keep Theater Mechanicus around
-  - Love some RTS in my Genshin
 - More things to do in the Adventurer Book
 - Adventurer Book tracking more than 6 enemies in the map
   - I do not want to look up an online interactive map everytime
@@ -70,3 +68,5 @@
 # Serenity Teapot Feedback
 - In furnishing crafting screen, show amount in inventory and amount being crafted
 - Animation that plays after starting a craft makes it impossible to transition to queued crafts screen until animation completes
+- Not every specialty is available for gardening
+- Make Chubby a teleport waypoint
