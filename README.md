@@ -4,7 +4,6 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-
 # Genshin Impact Feedback
 
 - 2 factor authentication using a T-OTP app like Authy/Google Authenticator
@@ -26,7 +25,6 @@
   - Repeat 40-50 but without the primogems?
 - Elite and world (Regisvines, Hypostases, Andrius, Primo Geovishap) bosses should be a teleport destination on the map.
     - Elite bosses should display their respawn timer on the world map
-- Add shortcuts to quickswap between teams
 - Add better UI and shortcuts to quickly swap between gadgets
 - Show pity counter on wishes
   - 3* rewards are terrible
@@ -47,11 +45,11 @@
 - Quick swap between the 4 teams
   - More teams?
 - Repeating domains gets tedious
-  - Clearing a domain for the first time unlocks a system that lets you roll for loot without the repetitive comabt
+  - Clearing a domain for the first time unlocks a system that lets you roll for loot without the repetitive combat
   - Still allow manually fighting for bonus friendship, but not as much as co-op
 - Improved filtering in artifact screens
 - Allow more than 7 artifact materials during enhancement
-- Bennet's C6 should be a selectable option on his Elemental Burst. Hold elemental burst for field to infuse Pyro
+- Bennet's C6 should be a press/gold option on his Elemental Burst. Hold elemental burst for field to infuse Pyro
 - "Claim all" and "Repeat" option for expeditions.
 - Another option other than "Jump" for escaping from hard CC such as Frozen or Bubbles. (Why is it jump?)
 - UI for showing remaining shield durability
@@ -65,7 +63,7 @@
 - Adventurer Book tracking more than 6 enemies in the map
   - I do not want to look up an online interactive map everytime
   - Show enemies on minimap
-- 
+
 # Serenity Teapot Feedback
 - In furnishing crafting screen, show amount in inventory and amount being crafted
 - Animation that plays after starting a craft makes it impossible to transition to queued crafts screen until animation completes
