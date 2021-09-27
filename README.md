@@ -18,13 +18,14 @@
   - Implement a token system
     - Every weekly reset, you are given x tokens which are used to collect rewards
     - 1 token per boss available
-      - As of 2.0, 1 each for Andrius, Dvalin, Tartaglia, and Azhdaha
-    - Challenge any combination of the bosses, or challenge the same boss 4 times
+      - As of 2.1, 5 total
+    - Challenge any combination of the bosses, or challenge the same boss 5 times
 - Add condensed resin as a reward for completing all 4 turning in daily commissions.
 - Add fragile resin as a reward for completing 5 days of cumulative daily commissions
 - Battle Pass rewards after level 50
   - Repeat 40-50 but without the primogems?
 - Elite and world (Regisvines, Hypostases, Andrius, Primo Geovishap) bosses should be a teleport destination on the map.
+    - Elite bosses should display their respawn timer on the world map
 - Add shortcuts to quickswap between teams
 - Add better UI and shortcuts to quickly swap between gadgets
 - Show pity counter on wishes
